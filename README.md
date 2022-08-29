@@ -13,7 +13,7 @@
 ## 一、项目说明
 1.Hardware  
 Hardware文件夹内是神之眼里面用到的所有电路的原理图和PCB文件，目前提供的是立创EDA格式的源文件以及Gerber格式的光绘文件用于提供给厂家进行直接加工。
-另一个是立创EDA的开源链接，可以查看开源的硬件设计  
+另一个是[立创EDA的开源链接](https://oshwhub.com/zengshuaishuai/shen-zhi-yan-gua-jian-2-0_copy)，可以查看开源的硬件设计  
 2.Firmware  
 基于platfromio开发的固件，提供基本源码，需要自己去vscode上使用platfromio编译烧录 
 3.Software  
